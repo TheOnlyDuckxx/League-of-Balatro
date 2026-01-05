@@ -4,7 +4,7 @@
   "author": ["TheOnlyDuckxx","Anchorclaws"],
   "description": "Cool mod",
   "prefix": "lob",
-  "main_file": "lob.lua",
+  "main_file": "League-of-Balatro.lua",
   "version": "1.0.0",
   "dependencies": ["Steamodded (>=1.*)"]
 }
