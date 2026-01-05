@@ -1,0 +1,10 @@
+{
+  "id": "league_of_balatro",
+  "name": "League of Balatro",
+  "author": ["TheOnlyDuckxx","Anchorclaws"],
+  "description": "Cool mod",
+  "prefix": "lob",
+  "main_file": "lob.lua",
+  "version": "1.0.0",
+  "dependencies": ["Steamodded (>=1.*)"]
+}
