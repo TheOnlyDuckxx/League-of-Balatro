@@ -16,6 +16,13 @@ return {
           "{C:attention}#2#{} hands played",
           "{C:inactive}#3# remaining{}"
         }
+      },
+
+      j_lob_ryze = {
+        name = "Ryze",
+        text = {
+          "Applies {C:attention}Splash{}"
+        }
       }
     }
   }
