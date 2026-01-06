@@ -7,6 +7,14 @@ return {
           "{C:chips}+#1#{} jetons",
           "{C:mult}+#2#{} mult"
         }
+      },
+      j_lob_jhin = {
+        name = "Jhin",
+        text = {
+          "{X:mult,C:white} X#1# {} Mult toutes les",
+          "{C:attention}#2#{} mains jouées",
+          "{C:inactive}#3# restantes{}"
+        }
       }
     }
   }
